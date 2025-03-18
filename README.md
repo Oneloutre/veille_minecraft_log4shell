@@ -24,3 +24,5 @@ Le principe est simple, sur un système affecté un attaquant peu exécuter du c
 ## Sources utilisées 
 
 https://www.trendmicro.com/fr_fr/what-is/apache-log4j-vulnerability.html
+https://github.com/Justin-Garey/Minecraft-Log4j-Exploit
+https://medium.com/@hackingvarangian/log4shell-vulnerability-part-1-minecraft-poc-ef770e5800de
